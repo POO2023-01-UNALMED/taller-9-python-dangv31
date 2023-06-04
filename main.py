@@ -15,7 +15,7 @@ def agregar(opcion):
         entrada.set(eval(entrada.get()))
 # Configuración ventana principal
 root = Tk()
-root.title("Hola")
+root.title("Calculadora POO")
 root.resizable(0,0)
 root.geometry("")
 
